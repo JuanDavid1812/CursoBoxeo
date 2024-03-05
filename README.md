@@ -1,9 +1,3 @@
-# Moodle docker-compose lamp
-admin/Admin0101*
+Curso de Boxeo con moodle
 
-sudo chmod -R uga+wr logs/apache2/
-
-sudo docker-compose up -d
-
-sudo docker-compose ps
-sudo docker-compose down
+<img src="/home/juan/Documentos/Docker/mood1/config/img/image.png">
